@@ -1,0 +1,18 @@
+#titulo {
+    font:bold 26px MiNuevaLetra, Verdana, sans-serif;
+}
+#descripcion{
+   width: 200px; 
+   height: 100px;
+   overflow: scroll;
+}
+a{
+   text-decoration: none; 
+}
+
+header{
+   margin: 30px;
+   padding: 15px;
+   text-align: center;
+   border:29px solid #999999;
+}
