@@ -1,0 +1,16 @@
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+#cabeceralogo {
+   width: 96%;
+   height: 150px;
+   padding: 0%2%;
+   background-color: #0F76A0;
+}
+
+#cabeceralogo h1{
+   font: bold 54px Arial, sans-serif;
+   color: #FFFFFF ;
+}
