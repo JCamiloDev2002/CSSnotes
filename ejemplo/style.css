@@ -20,6 +20,9 @@
     color: white;
     font-size: 20px;
 }
+.link:hover{
+    color:blueviolet;
+}
 
 .link1{
     margin-top: 15px;
@@ -45,6 +48,6 @@
     display: flex;
     justify-content: center;
 }
-.letter{
-    
+.letter:hover{
+    color:brown ;
 }
